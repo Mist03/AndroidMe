@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kotlinFragment"
+        android:icon="@drawable/icon_kotlin"
+        android:title="Kotlin" />
+    <item
+        android:id="@+id/androidFragment"
+        android:icon="@drawable/icon_android"
+        android:title="Android" />
+    <item
+        android:id="@+id/designFragment"
+        android:icon="@drawable/icon_design"
+        android:title="Design" />
+    <item
+        android:id="@+id/testingFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/icon_test"
+        android:title="Testing" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/icon_profile"
+        android:title="Profile" />
+</menu>

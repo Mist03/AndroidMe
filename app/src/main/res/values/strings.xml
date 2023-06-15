@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleAndroidStudio">What is a computer?</string>
+    //Для карточек по Android
+    <string name="titleAndroid1">Android #1.Вступление</string>
+    <string name="titleAndroid2">Android #2.Запуск среды разработки</string>
+    <string name="titleAndroid3">Android #3.Создание первого проекта</string>
+    //Для карточек по Kotlin
+    <string name="titleKotlin1">Kotlin #1.Вступление</string>
+    <string name="titleKotlin2">Kotlin #2.Команда и первая программа</string>
+    <string name="titleKotlin3">Kotlin #3.Структура типичные команды</string>
+    //Для карточек по Designe
+    <string name="titleDesigne1">Designe #1.Вступление</string>
+    <string name="titleDesigne2">Designe #2.XML</string>
+    <string name="titleDesigne3">Designe #3.Свойства TextView</string>
+    //Для карточек по Test
+    <string name="titleAndroid">Android</string>
+    <string name="titleKotlin">Kotlin</string>
+    <string name="titleDesigne">Designe</string>
+
+
+</resources>

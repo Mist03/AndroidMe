@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/kotlinFragment">
+
+    <fragment
+        android:id="@+id/kotlinFragment"
+        android:name="com.example.diploma_mk.Fragment.KotlinFragment"
+        android:label="fragment_kotlin" />
+    <fragment
+        android:id="@+id/androidFragment"
+        android:name="com.example.diploma_mk.Fragment.AndroidFragment"
+        android:label="fragment_android" />
+    <fragment
+        android:id="@+id/designFragment"
+        android:name="com.example.diploma_mk.Fragment.DesignFragment"
+        android:label="fragment_design" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.diploma_mk.Fragment.ProfileFragment"
+        android:label="fragment_profile" />
+    <fragment
+        android:id="@+id/testingFragment"
+        android:name="com.example.diploma_mk.Fragment.TestingFragment"
+        android:label="TestingFragment" />
+</navigation>

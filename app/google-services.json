@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626960549289",
+    "project_id": "androidme-dad18",
+    "storage_bucket": "androidme-dad18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626960549289:android:1c4fe65bfd36636b5b70b8",
+        "android_client_info": {
+          "package_name": "com.example.diploma_mk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626960549289-hd4tkh6sb30epaap2s34pmu7779c0jmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYErB0ho76NW21_8Fl5dP7tRVEhzZr_Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626960549289-hd4tkh6sb30epaap2s34pmu7779c0jmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
